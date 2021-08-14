@@ -1,3 +1,9 @@
+#  Fake Store with redux hooks
+
+### Links
+
+- Live Site URL: [https://johnnie-lc.github.io/Fake-Store](https://johnnie-lc.github.io/Fake-Store)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
